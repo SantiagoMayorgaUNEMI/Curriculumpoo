@@ -1,0 +1,9 @@
+.containerhabi .border{
+    border-radius: 30px;
+    color: white;
+
+}
+.containerhabi .row .border:hover{
+    color: #ffc107;
+
+}

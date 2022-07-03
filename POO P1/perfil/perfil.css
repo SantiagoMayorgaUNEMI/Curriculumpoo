@@ -1,0 +1,17 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contperfil .row{
+    margin-top:5%; 
+    padding:auto;
+    margin-left:15%;
+    margin-bottom: 5%;
+    margin-right: 15%;
+}
+
+@media(max-width: 991px){
+    .contperfil .row .imgper{
+        margin-top: 5%;
+       margin-left: 30%;
+    }
+}
